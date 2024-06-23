@@ -1,8 +1,9 @@
 # GUI Framework
-tkinter  # Standard GUI library for Python (usually included with Python installations)
+# tkinter  # Standard GUI library for Python (usually included with Python installations)
 
 # HTTP Requests
 requests  # For downloading smart contracts from provided URLs
+aiohttp
 
 # Solidity Parsing
 solidity-parser  # For parsing Solidity code to analyze the structure and extract information
