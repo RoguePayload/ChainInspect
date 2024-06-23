@@ -1,0 +1,32 @@
+# GUI Framework
+# tkinter            # Standard GUI library for Python (usually included with Python installations)
+
+# HTTP Requests
+requests           # For downloading smart contracts from provided URLs
+
+# Solidity Parsing
+solidity-parser    # For parsing Solidity code to analyze the structure and extract information
+
+# Static Analysis Tools for Smart Contracts
+mythril            # Security analysis tool for Ethereum smart contracts
+slither-analyzer   # Static analysis framework for smart contracts
+
+# PDF Report Generation
+reportlab          # For exporting scan reports to PDF
+
+# General Utilities
+pyyaml             # For handling configuration files if needed
+pandas             # For organizing and manipulating data, potentially useful for detailed reports
+
+# Enhanced User Experience
+colorama           # For colorizing text in the console (if needed for advanced features)
+
+# Graphical Libraries
+Pillow             # For handling images in the GUI (optional, if including images in reports)
+
+# Testing and Debugging
+pytest             # For writing and running tests to ensure code quality
+
+# Development Tools
+black             # Code formatter to maintain code quality
+flake8            # Linting tool for checking code style
